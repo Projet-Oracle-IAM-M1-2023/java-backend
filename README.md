@@ -3,10 +3,10 @@
 Tables
 **Regions**
 * Pour accéder à la liste des régions taper url suivant:
-    * http://localhost:8080/apitomcat/api/iam/master1/regions/listRegions
-  
+    * http://localhost:8080/apitomcat/api/iam/master1/regions/listRegions  
 * Pour créer une région r taper url suivant:
     * http://localhost:8080/apitomcat/api/iam/master1/regions/createRegions
+      
 **Countries**
 * Pour accéder à la liste des pays taper url suivant:
     * http://localhost:8080/apitomcat/api/iam/master1/countries/listCountries
