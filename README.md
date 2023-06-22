@@ -1,5 +1,9 @@
 # Documentation de l‘api Iam 2023
 
+* Installez Tomcat
+* Déplacez le fichier *.war* dans le répertoire **webapps** ("C:\Program Files\Apache Software Foundation\Tomcat 10.1\webapps")
+* Lancez le serveur Tomcat en double-cliquant sur *startup.bat* dans le dossier **bin** ("C:\Program Files\Apache Software Foundation\Tomcat 10.1\bin")
+
 Tables
 **Regions**
 * Pour accéder à la liste des régions taper url suivant:
