@@ -43,4 +43,4 @@ Tables
 * Pour modifier un employé taper url suivant:
     * http://localhost:8080/apitomcat/api/iam/master1/employees/{id}
 
-***Nb : apitomca est le nom du dossier  genere sur tomcat . Donc vous devez le modifier en fonction du nom de votre dossier.***
+***Nb : apitomcat est le nom du dossier  genere sur tomcat . Donc vous devez le modifier en fonction du nom de votre dossier.***
