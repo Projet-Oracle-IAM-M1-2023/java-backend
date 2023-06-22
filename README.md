@@ -2,7 +2,7 @@
 
 * Installez Tomcat  [Télécharger](https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.10/bin/apache-tomcat-10.1.10.exe "Télécharger")
 * Déplacez le fichier *.war* dans le répertoire **webapps** ("C:\Program Files\Apache Software Foundation\Tomcat 10.1\webapps")
-     * Vous pouvez également créer un nouveau dossier dans le répertoire webapps et cloner ce référentiel dans le dossier en utilisant la commande: git clone   
+     * Vous pouvez également créer un nouveau dossier dans le répertoire webapps et cloner ce repo dans le dossier en utilisant la commande: git clone   
 * Lancez le serveur Tomcat en double-cliquant sur *startup.bat* dans le dossier **bin** ("C:\Program Files\Apache Software Foundation\Tomcat 10.1\bin")
 
 Tables
